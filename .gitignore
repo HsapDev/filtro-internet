@@ -1,0 +1,10 @@
+# Executáveis binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+filtro-dns
+
+# Arquivos de teste temporários
+scratch/
